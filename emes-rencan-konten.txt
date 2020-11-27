@@ -4,5 +4,6 @@ RENCANA KONTEN EMES
    > hardware & Software
   *Pengenalan Perangkat Komputer
   *Pengenalan Sistem Operasi
+   > sistem operasi text
 -Merakit Komputer
 -Pengenalan Sistem Operasi

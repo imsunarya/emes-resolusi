@@ -2,6 +2,8 @@ RENCANA KONTEN EMES
 -Pengenalan Komputer
   *Sejarah Komputer
   *Pengenalan Perangkat Komputer
+    > Awal Sejarah
+    > Dulu
   *Pengenalan Sistem Operasi
--Merakit Komputer
 -Pengenalan Sistem Operasi
+ > text
